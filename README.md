@@ -14,6 +14,8 @@ I'm particularly interested in understanding how things work under the hood — 
 *   🧠  I'm currently learning NoSQL databases, Software architecture, Team management & collaboration, Improving my skills in low-level and embedded development
 *   👥  I'm looking to collaborate on Open-source projects, C/C++ & Rust, web development, embedded systems, Linux, networking, and anything that gives me an opportunity to build, learn, and collaborate with others.
 *   🎓 I'm currently pursuing a degree in Systems Engineering.
+
+## 🐍 My contributions
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
